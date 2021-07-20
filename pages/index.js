@@ -204,7 +204,7 @@ export default function Home({githubUser}) {
               {pessoasFavoritas.map((itemAtual) => {
                 return (
                   <li key={itemAtual}>
-                    {//<a href={`/users/${itemAtual}`}>}
+                    {/* <a href={`/users/${itemAtual}`}> */}
                     <a href={`https://github.com/${itemAtual}`}>
                       <img src={`https://github.com/${itemAtual}.png`} />
                       <span>{itemAtual}</span>
