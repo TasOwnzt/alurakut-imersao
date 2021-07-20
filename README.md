@@ -1,7 +1,7 @@
 # Alurakut
 
-
 ## Sobre o projeto
+
   Este projeto tem o objetivo didático e aprimorar as habilidades no desenvolvimento web utilizando as principais frameworks e ferramentas utilizadas no mercado atual.
 
 ## Sobre o Alurakut
